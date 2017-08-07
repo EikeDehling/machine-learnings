@@ -39,7 +39,7 @@ During the exploratory analysis you can for example plot distributions, correlat
 of numeric features and influence of categorical variables to help yourself understand
 the data.
 
-Data preparation means more filling in missing values and/or converting string values
+Date preparation means more filling in missing values and/or converting string values
 to numeric ones.
 
 See here for examples: ... TODO: Make notebook(s) ...
@@ -73,5 +73,16 @@ There is many approaches to evaluating models, i'm demonstrating and describing 
 
 
 ## Tuning model(s) parameters
+
+Most machine learning algorithms have some parameters that can (should) be tuned for
+optimal results. Parameters influence for example regularization strength, tree depth
+and many more aspects. Tuning parameters can have strong influence on results in some
+alorithms, so it pays off to spend some energy here!
+
+I've prepared three notebooks with examples of parameter tuning approaches:
+- [Exhaustive search](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_gridsearchcv.ipynb)
+- [Randomized search](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_randomizedsearchcv.ipynb)
+- [Hyperopt library](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_hyperopt.ipynb)
+
 ## Comparing and choosing between model(s)
 ## Finishing remarks
