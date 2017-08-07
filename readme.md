@@ -28,11 +28,50 @@ by revisiting each of the steps, for example adding some more features tuning th
 model more, picking a stronger model etc.
 
 
-## Exploratory Data Analysis
-## Data Preparation
+## Exploratory Analysis & Data Preparation
+
+Data analysis and preparation serves to get an understanding of data and prepare it for
+modelling efforts. Good understanding of data can be very advantageous, for example
+allowing you to engineer better features or understanding why your model performs
+bad.
+
+During the exploratory analysis you can for example plot distributions, correlation
+of numeric features and influence of categorical variables to help yourself understand
+the data.
+
+Data preparation means more filling in missing values and/or converting string values
+to numeric ones.
+
+See here for examples: ... TODO: Make notebook(s) ...
+
+
 ## Feature engineering
-## Preprocessing (scaling/normalization ; transforms ; feature selection ; ...)
-## Cross validation
+
+I would describe feature engineering as efforts to present data in such a way that a
+machine learning algorithm can use it best for predictions. This can be smart
+combinations of existing features, parsing textual data, calculated features etc.
+
+See here for some examples and inspiration: ... TODO: Make notebook(s) ...
+
+
+## Preprocessing
+
+- scaling/normalization
+- transforms (one-hot ; labelencoder)
+- feature selection
+- etc
+
+
+## Evaluation
+
+Evaluation means training and then seeing how well it performs. Generally you train
+on one dataset and then evaluate on another, to ensure your model generalizes to new
+data also and doesn't just work for the training data.
+
+There is many approaches to evaluating models, i'm demonstrating and describing several in
+[this notebook](https://github.com/EikeDehling/machine-learnings/blob/master/evaluating.ipynb)
+
+
 ## Tuning model(s) parameters
 ## Comparing and choosing between model(s)
-## Conclusions
+## Finishing remarks
