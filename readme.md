@@ -79,10 +79,24 @@ optimal results. Parameters influence for example regularization strength, tree 
 and many more aspects. Tuning parameters can have strong influence on results in some
 alorithms, so it pays off to spend some energy here!
 
-I've prepared three notebooks with examples of parameter tuning approaches:
-- [Exhaustive search](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_gridsearchcv.ipynb)
-- [Randomized search](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_randomizedsearchcv.ipynb)
+I've prepared a few notebooks with examples of parameter tuning approaches:
+- [Exhaustive search using GridSeachCV](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_gridsearchcv.ipynb)
+- [Randomized search using RandomizedSearchCV](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_randomizedsearchcv.ipynb)
 - [Hyperopt library](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_hyperopt.ipynb)
+- PySMAC also works very well, i'll 
+
 
 ## Comparing and choosing between model(s)
+
+Different models can perform better or worse on various problems as each model is more
+or less suited to certain types of prolems. It often makes sense to train and evaluate
+multiple models to see which work best and/or where to spend tuning efforts. Note this
+is not neccessarily the case, different algorithms can also perform similarly good or bad.
+
+I've prepared [this notebook](https://github.com/EikeDehling/machine-learnings/blob/master/evaluating.ipynb)
+to show how you can compare models.
+
+
 ## Finishing remarks
+
+... TODO ...
