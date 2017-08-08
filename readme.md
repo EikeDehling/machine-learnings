@@ -42,7 +42,9 @@ the data.
 Date preparation means more filling in missing values and/or converting string values
 to numeric ones.
 
-See here for examples: ... TODO: Make notebook(s) ...
+See here for examples:
+
+- TODO: Make notebook(s)
 
 
 ## Feature engineering
@@ -65,8 +67,8 @@ or string features need to be encoded.
 
 I've prepared some notebooks with handy code snippets and explanations:
 
-- [Scaling/normalization](https://github.com/EikeDehling/machine-learnings/blob/master/preprocessing_scaling.ipynb)
-- transforms (one-hot ; labelencoder)
+- [Scaling/normalization using RobustScaler](https://github.com/EikeDehling/machine-learnings/blob/master/preprocessing_scaling.ipynb)
+- [Encoding categorical data (One-hot / Label encoding](https://github.com/EikeDehling/machine-learnings/blob/master/preprocessing_scaling.ipynb)
 - feature selection
 
 
