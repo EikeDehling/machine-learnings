@@ -2,20 +2,20 @@
 
 Last year i followed a coursera course on machine learning and several courses on
 statistics and data analysis. After that i've started participating in kaggle
-machine learning competitions, first tutorial competitions and now also some
-serious competitions.
+machine learning competitions and picked up data analysis and machine learning
+tasks at work. 
 
-In here i'll share an overview of what i've learned and give links to code snippets
-that you can reuse. I'm hoping this is interesting and helpfull to others that are
-starting to learn about this subject!
+In this repository i'm sharing an overview of the subject and i'm giving links to
+code snippets that you can reuse. I'm hoping this is interesting and helpfull
+to others that are learning about data analysis and/or machine learning.
 
 
 ## Overview
 
-There is several important activities in a machine learning effort, often it starts
-at some exploratory data analysis, there can be data preparation, feature engineering
-and preprocessing. Then comes selecting and tuning models. Finally there is evaluation
-of the completed model.
+I find there are several important activities in an machine learning effort, often i
+start with exploratory data analysis, then data preparation, feature engineering
+and preprocessing. Then comes selecting, tuning and evaluating models. This is not
+a linear process though, i often revisit earlier steps to improve the final model.
 
 I've tried to display the process in the chart below:
 
