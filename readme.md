@@ -51,15 +51,23 @@ I would describe feature engineering as efforts to present data in such a way th
 machine learning algorithm can use it best for predictions. This can be smart
 combinations of existing features, parsing textual data, calculated features etc.
 
-See here for some examples and inspiration: ... TODO: Make notebook(s) ...
+See here for some examples and inspiration:
+
+- TODO: Make notebook(s)
 
 
 ## Preprocessing
 
-- scaling/normalization
+Preprocessing means transformations to make data suitable for further machine learning
+algorithms. For example some algorithms require all features to be on a similar scale,
+such as (-1, 1). Many algorithms only work with numerical data, meaning categorical
+or string features need to be encoded.
+
+I've prepared some notebooks with handy code snippets and explanations:
+
+- [Scaling/normalization](https://github.com/EikeDehling/machine-learnings/blob/master/preprocessing_scaling.ipynb)
 - transforms (one-hot ; labelencoder)
 - feature selection
-- etc
 
 
 ## Evaluation
@@ -83,7 +91,7 @@ I've prepared a few notebooks with examples of parameter tuning approaches:
 - [Exhaustive search using GridSeachCV](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_gridsearchcv.ipynb)
 - [Randomized search using RandomizedSearchCV](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_randomizedsearchcv.ipynb)
 - [Hyperopt library](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_hyperopt.ipynb)
-- PySMAC also works very well, i'll 
+- PySMAC also works well, i'll add a notebook when i find time.
 
 
 ## Comparing and choosing between model(s)
