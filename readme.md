@@ -55,7 +55,7 @@ combinations of existing features, parsing textual data, calculated features etc
 
 See here for some examples and inspiration:
 
-- TODO: Make notebook(s)
+- [Feature engineering New York Green Taxi data](https://github.com/EikeDehling/machine-learnings/blob/master/feature_engineering_taxi.ipynb)
 
 
 ## Preprocessing
