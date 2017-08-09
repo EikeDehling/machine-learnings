@@ -44,7 +44,7 @@ to numeric ones.
 
 See here for examples:
 
-- TODO: Make notebook(s)
+- [Exploratory Data Analysis Titanic Survivors](https://github.com/EikeDehling/machine-learnings/blob/master/exploratory_data_analysis_titanic.ipynb)
 
 
 ## Feature engineering
