@@ -45,6 +45,7 @@ to numeric ones.
 See here for examples:
 
 - [Exploratory Data Analysis Titanic Survivors](https://github.com/EikeDehling/machine-learnings/blob/master/exploratory_data_analysis_titanic.ipynb)
+- [Data Analysis New York Green Taxi data](https://github.com/EikeDehling/machine-learnings/blob/master/feature_engineering_data_analysis_taxi.ipynb)
 
 
 ## Feature engineering
@@ -55,7 +56,7 @@ combinations of existing features, parsing textual data, calculated features etc
 
 See here for some examples and inspiration:
 
-- [Feature engineering New York Green Taxi data](https://github.com/EikeDehling/machine-learnings/blob/master/feature_engineering_taxi.ipynb)
+- [Feature engineering New York Green Taxi data](https://github.com/EikeDehling/machine-learnings/blob/master/feature_engineering_data_analysis_taxi.ipynb)
 
 
 ## Preprocessing
