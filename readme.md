@@ -10,6 +10,17 @@ code snippets that you can reuse. I'm hoping this is interesting and helpfull
 to others that are learning about data analysis and/or machine learning.
 
 
+## Running
+
+To run the notebooks and/or extend them, you can run them using this command:
+
+```
+docker run -it --rm --user root -e NB_UID=1000 -e NB_GID=1000 -v `realpath .`:/home/jovyan/work -p 8888:8888 jupyter/datascience-notebook
+```
+
+This requires you have docker installed on your machine
+
+
 ## Overview
 
 I find there are several important activities in an machine learning effort, often i
@@ -104,10 +115,11 @@ or less suited to certain types of prolems. It often makes sense to train and ev
 multiple models to see which work best and/or where to spend tuning efforts. Note this
 is not neccessarily the case, different algorithms can also perform similarly good or bad.
 
-I've prepared [this notebook](https://github.com/EikeDehling/machine-learnings/blob/master/evaluating.ipynb)
+I've prepared [this notebook](https://github.com/EikeDehling/machine-learnings/blob/master/comparing_models.ipynb)
 to show how you can compare models.
 
 
 ## Finishing remarks
 
-... TODO ...
+It's been really interesting to learn all these new things! Also very helpfull for myself
+to try and write it down in a structured way. I'm hoping this is interesting to others...
