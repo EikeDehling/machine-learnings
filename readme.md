@@ -119,6 +119,17 @@ I've prepared [this notebook](https://github.com/EikeDehling/machine-learnings/b
 to show how you can compare models.
 
 
+## Working with textual data (NLP)
+
+Working with textual data is a special area - because machine learning models normally
+only work on numbers. That means before any modelling happens we need to convert the text
+into numbers. Also there is various modeling approaches, from linear models to neural
+networks that have proven successful and work in different scenarios.
+
+In these notebooks you can find some ideas on processing textual data:
+- [Hate speech - Logistic Regression and TfIdf features](https://github.com/EikeDehling/machine-learnings/blob/master/hate_speech.ipynb)
+
+
 ## Finishing remarks
 
 It's been really interesting to learn all these new things! Also very helpfull for myself
