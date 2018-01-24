@@ -80,7 +80,7 @@ or string features need to be encoded.
 I've prepared some notebooks with handy code snippets and explanations:
 
 - [Scaling/normalization using RobustScaler](https://github.com/EikeDehling/machine-learnings/blob/master/preprocessing_scaling.ipynb)
-- [Encoding categorical data (One-hot / Label encoding](https://github.com/EikeDehling/machine-learnings/blob/master/preprocessing_scaling.ipynb)
+- [Encoding categorical data (One-hot / Label encoding](https://github.com/EikeDehling/machine-learnings/blob/master/preprocessing_encoding.ipynb)
 - feature selection
 
 
