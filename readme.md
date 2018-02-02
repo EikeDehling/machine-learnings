@@ -128,6 +128,7 @@ networks that have proven successful and work in different scenarios.
 
 In these notebooks you can find some ideas on processing textual data:
 - [Hate speech - Logistic Regression and TfIdf features](https://github.com/EikeDehling/machine-learnings/blob/master/hate_speech.ipynb)
+- [Twitter sentiment - Airlines Data](https://github.com/EikeDehling/machine-learnings/blob/master/airline_sentiment.ipynb)
 
 
 ## Finishing remarks
