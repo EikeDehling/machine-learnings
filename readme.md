@@ -30,7 +30,7 @@ a linear process though, i often revisit earlier steps to improve the final mode
 
 I've tried to display the process in the chart below:
 
-![Machine Learning Process](https://github.com/EikeDehling/machine-learnings/raw/master/process.png "Machine Learning Process")
+![Machine Learning Process](https://github.com/EikeDehling/machine-learnings/raw/master/img/process.png "Machine Learning Process")
 
 The picture intends to show that there is a back-and-forth between the various
 activities. Often it all starts at exploratory analysis and then trying to make a
