@@ -124,6 +124,11 @@ to show how you can compare models.
 ... TODO ...
 
 
+## Stacking, ensembling & averaging
+
+... TODO ...
+
+
 ## Working with textual data (NLP)
 
 Working with textual data is a special area - because machine learning models normally
