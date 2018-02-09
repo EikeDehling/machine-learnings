@@ -119,6 +119,11 @@ I've prepared [this notebook](https://github.com/EikeDehling/machine-learnings/b
 to show how you can compare models.
 
 
+## Overfit and underfit
+
+... TODO ...
+
+
 ## Working with textual data (NLP)
 
 Working with textual data is a special area - because machine learning models normally
@@ -127,6 +132,7 @@ into numbers. Also there is various modeling approaches, from linear models to n
 networks that have proven successful and work in different scenarios.
 
 In these notebooks you can find some ideas on processing textual data:
+- [NLP with NLTK](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_nltk.ipynb)
 - [Hate speech - Logistic Regression and TfIdf features](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_hate_speech.ipynb)
 - [Twitter sentiment - Airlines Data](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_airline_sentiment.ipynb)
 - [NLP with Neural Networks](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_neural_networks.ipynb)
