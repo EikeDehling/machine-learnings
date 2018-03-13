@@ -1,1 +1,8 @@
 .ipynb_checkpoints
+pip-selfcheck.json
+bin
+etc
+lib
+lib64
+share
+include
