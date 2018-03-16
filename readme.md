@@ -57,6 +57,7 @@ See here for examples:
 
 - [Exploratory Data Analysis Titanic Survivors](https://github.com/EikeDehling/machine-learnings/blob/master/exploratory_data_analysis_titanic.ipynb)
 - [Data Analysis New York Green Taxi data](https://github.com/EikeDehling/machine-learnings/blob/master/feature_engineering_data_analysis_taxi.ipynb)
+- [Loans Acceptance Data Analysis & Modelling](https://github.com/EikeDehling/machine-learnings/blob/master/loans_acceptance.ipynb)
 
 
 ## Feature engineering
@@ -90,8 +91,10 @@ Evaluation means training and then seeing how well it performs. Generally you tr
 on one dataset and then evaluate on another, to ensure your model generalizes to new
 data also and doesn't just work for the training data.
 
-There is many approaches to evaluating models, i'm demonstrating and describing several in
-[this notebook](https://github.com/EikeDehling/machine-learnings/blob/master/evaluating.ipynb)
+There is many approaches to evaluating models, here are some notebooks with examples:
+
+- [Evaluation & cross validation Approaches](https://github.com/EikeDehling/machine-learnings/blob/master/evaluating.ipynb)
+- [Loans Acceptance Data Analysis & Modelling](https://github.com/EikeDehling/machine-learnings/blob/master/loans_acceptance.ipynb)
 
 
 ## Tuning model(s) parameters
