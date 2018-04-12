@@ -144,6 +144,7 @@ In these notebooks you can find some ideas on processing textual data:
 - [Hate speech - Logistic Regression and TfIdf features](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_hate_speech.ipynb)
 - [Twitter sentiment - Airlines Data](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_airline_sentiment.ipynb)
 - [NLP with Neural Networks](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_neural_networks.ipynb)
+- [NLP Textual Similarity / Search Ranking](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_similarity_crowdflower.ipynb)
 
 
 ## Finishing remarks
