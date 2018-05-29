@@ -12,13 +12,19 @@ to others that are learning about data analysis and/or machine learning.
 
 ## Running
 
-To run the notebooks and/or extend them, you can run them using this command:
+To run the notebooks and/or extend them, you can run them using this command in a docker container (requires docker):
 
 ```
 docker run -it --rm --user root -e NB_UID=1000 -e NB_GID=1000 -v `realpath .`:/home/jovyan/work -p 8888:8888 jupyter/datascience-notebook
 ```
 
-This requires you have docker installed on your machine
+Alternatively you can setup a python virtual environment, install the required packages in there and run:
+
+```
+virtualenv .
+bin/pip install -r requirements.txt
+bin/jupyter notebook
+```
 
 
 ## Overview
@@ -58,6 +64,7 @@ See here for examples:
 - [Exploratory Data Analysis Titanic Survivors](https://github.com/EikeDehling/machine-learnings/blob/master/exploratory_data_analysis_titanic.ipynb)
 - [Data Analysis New York Green Taxi data](https://github.com/EikeDehling/machine-learnings/blob/master/feature_engineering_data_analysis_taxi.ipynb)
 - [Loans Acceptance Data Analysis & Modelling](https://github.com/EikeDehling/machine-learnings/blob/master/loans_acceptance.ipynb)
+- [Black Friday](https://github.com/EikeDehling/machine-learnings/blob/master/black_friday.ipynb)
 
 
 ## Feature engineering
@@ -109,6 +116,7 @@ I've prepared a few notebooks with examples of parameter tuning approaches:
 - [Randomized search using RandomizedSearchCV](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_randomizedsearchcv.ipynb)
 - [Hyperopt library](https://github.com/EikeDehling/machine-learnings/blob/master/parameter_tuning_hyperopt.ipynb)
 - PySMAC also works well, i'll add a notebook when i find time.
+- [Black Friday - Tuning model params with validation plots](https://github.com/EikeDehling/machine-learnings/blob/master/black_friday.ipynb)
 
 
 ## Comparing and choosing between model(s)
