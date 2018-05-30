@@ -135,7 +135,7 @@ to show how you can compare models.
 Overfitting and underfitting are the most common ways for models to fail. In the notebooks
 below i'll show how that could look, how to diagnose and some solutions.
 
-- [Overfitting and Underfitting](https://github.com/EikeDehling/machine-learnings/blob/master/overfit_underfit.ipynb)
+- [Overfitting and Underfitting](https://github.com/EikeDehling/machine-learnings/blob/master/underfit_overfit.ipynb)
 
 
 ## Stacking, ensembling & averaging
