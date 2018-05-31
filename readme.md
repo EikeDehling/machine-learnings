@@ -136,6 +136,7 @@ Overfitting and underfitting are the most common ways for models to fail. In the
 below i'll show how that could look, how to diagnose and some solutions.
 
 - [Overfitting and Underfitting](https://github.com/EikeDehling/machine-learnings/blob/master/underfit_overfit.ipynb)
+- [Learning Curves](https://github.com/EikeDehling/machine-learnings/blob/master/learning_curves.ipynb)
 
 
 ## Stacking, ensembling & averaging
