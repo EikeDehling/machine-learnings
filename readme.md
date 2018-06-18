@@ -159,6 +159,12 @@ In these notebooks you can find some ideas on processing textual data:
 - [NLP with Neural Networks](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_neural_networks.ipynb)
 - [NLP Textual Similarity / Search Ranking](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_similarity_crowdflower.ipynb)
 
+## Spark MLLib
+
+In spark there is also a good machine learning library, spark mllib. I'm going to show some examples of usage below:
+
+- [Spark MLLib - Twitter Sentiment](https://github.com/EikeDehling/machine-learnings/blob/master/spark_mllib_airline_sentiment.ipynb)
+
 
 ## Finishing remarks
 
