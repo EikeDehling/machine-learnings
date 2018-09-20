@@ -159,6 +159,15 @@ In these notebooks you can find some ideas on processing textual data:
 - [NLP with Neural Networks](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_neural_networks.ipynb)
 - [NLP Textual Similarity / Search Ranking](https://github.com/EikeDehling/machine-learnings/blob/master/nlp_similarity_crowdflower.ipynb)
 
+
+## Learn to rank
+
+Since i'm working with search technology frequently, a logical machine learning subject is Learn
+to Rank. We've done a few of these projects at work and i will explain some of the basics here.
+
+- [Learning to Rank](https://github.com/EikeDehling/machine-learnings/blob/master/ltr.ipynb)
+
+
 ## Spark MLLib
 
 In spark there is also a good machine learning library, spark mllib. I'm going to show some examples of usage below:
