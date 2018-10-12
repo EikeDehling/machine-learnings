@@ -7,3 +7,5 @@ lib
 lib64
 share
 include
+local
+man
